@@ -4,6 +4,15 @@ Welcome! This repository contains a responsive **Resort Website Template** built
 
 ---
 
+## 🔗 Live Demo
+
+This project is hosted using **GitHub Pages**. You can view it live here:
+
+👉 [Live Site](https://lucifer01430.github.io/ResortTemplate/)
+
+> **Note:** GitHub Pages might take a few minutes to update after changes are pushed.
+
+
 ## 🚧 Current Status
 
 - ✅ Fully functional frontend website
